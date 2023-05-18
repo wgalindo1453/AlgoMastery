@@ -24,10 +24,10 @@ In this repository, you'll find Google Colab files covering:
 
 The repository is structured in an easy-to-navigate fashion with directories corresponding to each of the major categories.
 
-- `/basics` - Basic Algorithms and Data Structures
-- `/advanced` - Advanced Algorithms
-- `/analysis` - Analysis of Algorithms
-- `/design` - Algorithm Design Paradigms
+- `/basics` - [Basic Algorithms and Data Structures](basics/Algorithms.ipynb)
+- `/advanced` - [Advanced Algorithms](advanced/Algorithms.ipynb)
+- `/analysis` - [Analysis of Algorithms](analysis/Algorithms.ipynb)
+- `/design` - [Algorithm Design Paradigms](design/Algorithms.ipynb)
 
 In each directory, you'll find related Google Colab files. Each file is named according to the concept it covers, making it straightforward to locate specific topics.
 
