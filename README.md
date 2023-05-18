@@ -28,6 +28,8 @@ The repository is structured in an easy-to-navigate fashion with directories cor
 - `/advanced` - [Advanced Algorithms](advanced/Algorithms.ipynb)
 - `/analysis` - [Analysis of Algorithms](analysis/Algorithms.ipynb)
 - `/design` - [Algorithm Design Paradigms](design/Algorithms.ipynb)
+- `/NPC` - [NPC Problems](NPC/NPC_Problems.ipynb)
+
 
 In each directory, you'll find related Google Colab files. Each file is named according to the concept it covers, making it straightforward to locate specific topics.
 
